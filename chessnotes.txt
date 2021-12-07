@@ -1,0 +1,48 @@
+board
+
+
+rook 
+what do we need to program
+movement - vertical horizontally until it meets a piece or side of the board - then take or stop
+
+status of spot on board (occupied or not occupied)/ black or white?? name or piece
+level every piece differently -- unique names for pieces
+
+each piece -- 
+
+we want the computer to take control
+
+
+
+
+Process of finding a valid - 
+what are the pieces the pieces on teh board
+pawn number 1 still alive -
+iterate through all pieces on board
+
+how do we determine where we can move
+
+4 options for a pawn -
+move foward 2 spaces 
+---check if pawn is on homerow 
+
+
+
+Pawn object
+movement
+white moves up -
+black moves down - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
